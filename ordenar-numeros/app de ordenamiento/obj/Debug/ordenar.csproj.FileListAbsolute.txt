@@ -1,0 +1,10 @@
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.exe.config
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.exe
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\bin\Debug\app de ordenamiento.pdb
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\ordenar.csproj.AssemblyReference.cache
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app_de_ordenamiento.Form1.resources
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app_de_ordenamiento.Properties.Resources.resources
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\ordenar.csproj.GenerateResource.cache
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\ordenar.csproj.CoreCompileInputs.cache
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.exe
+D:\DISCO LLENO\Downloads\app de oredenamiento\app de ordenamiento\app de ordenamiento\obj\Debug\app de ordenamiento.pdb
